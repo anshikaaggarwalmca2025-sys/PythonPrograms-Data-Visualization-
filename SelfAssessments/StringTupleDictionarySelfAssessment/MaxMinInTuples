@@ -1,0 +1,9 @@
+# Tuple of numbers
+numbers = (25, 10, 45, 5, 60)
+
+# Find maximum and minimum
+maximum = max(numbers)
+minimum = min(numbers)
+
+print("Maximum value:", maximum)
+print("Minimum value:", minimum)
