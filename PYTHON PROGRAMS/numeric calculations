@@ -1,2 +1,0 @@
-#input of data from user
-name = input("Enter your name")
