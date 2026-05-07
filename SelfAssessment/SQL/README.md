@@ -2,7 +2,7 @@
 
 ## Skills Audit
 - **DDL/DML Commands:** 85% (Can write table structures and manage records without errors).
-- **Complex Joins:** 75% (Understand the logic, but still practicing complex many-to-many joins).
+- **Complex Joins:** 75% (Understand the logic, but still practicing cmplex many-to-many joins).
 - **Query Optimization:** 60% (Learning how to write faster, more efficient queries).
 
 ## Personal Reflections
