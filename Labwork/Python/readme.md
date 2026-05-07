@@ -13,4 +13,3 @@ Building a strong foundation in Python programming, focusing on logic developmen
 ## Tools Used
 * Python 3.x
 * VS Code / Jupyter Notebook
-*
