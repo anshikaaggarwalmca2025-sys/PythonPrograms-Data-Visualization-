@@ -1,5 +1,0 @@
-set1 =set()
-print(type(set1))
-set1.add(45)
-set1.add(67)
-print(set1)
